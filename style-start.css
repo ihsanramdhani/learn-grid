@@ -160,7 +160,7 @@ h3 {
 }
 
 .testimonial:hover {
-  backdrop-filter: blur(10px);
+  filter: blur(10px);
   transition: filter 500ms;
 }
 
